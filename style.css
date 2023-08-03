@@ -1,0 +1,117 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+  
+  .container {
+    color: black;
+    max-width: 1200px;
+    margin:  auto;
+    padding: 10px;
+  }
+  .cnt {
+    color:black;
+    max-width: 1200px;
+    margin:  auto;
+    padding: 10px;
+    
+  }
+  h1{
+
+    text-align: center;
+    color:black;
+    
+
+  }
+  p{
+    text-align: center;
+    
+  }
+  .count {
+    display: flex;
+    max-width: 2000px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    color:black;
+    
+  }
+  header {
+    
+    background-color:rgba(195, 151, 158, 0.648);
+    color:#fff;
+    padding: 20px 0;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+   
+ 
+  nav ul {
+    list-style: none;
+    display: flex;
+    color:black;
+  }
+  
+  nav ul li {
+    margin-left: 20px;
+    text-align: center;
+    padding-left: 10px;
+    border: #ff5c5c;
+    
+}
+  
+  nav ul li a {
+    color:black;
+    text-decoration: none;
+  }
+  
+  .hero {
+    background-image: url("images/background.jpg");
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+  }
+  
+  .hero h2 {
+    font-size: 40px;
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    font-size: 20px;
+    margin-bottom: 40px;
+  }
+  
+  .cta-button {
+    background-color: #ff5c5c;
+    color: #fff;
+    padding: 15px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+  }
+  footer{
+    background-color:rgba(195, 151, 158, 0.648);
+    max-width: 2000px;
+    margin:  auto;
+    padding: 5px;
+    color:black;
+    
+    
+  }
+  hero{
+    background-color: rgb(205, 136, 147);
+  }
+ last{
+    color:black;
+ }
+  
